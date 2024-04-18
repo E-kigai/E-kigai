@@ -7,7 +7,7 @@ I'm Eric from Nairobi, Kenya  and I do Software Development. I really enjoy lear
 ##mobile
 Skills: SVELTE JS / REACT / JS / HTML / CSS
 ## Skills
-
+https://giphy.com/gifs/Perspectief-camas-perspectief-it-rJsMvyk7AHHiW9qKLM
 ### Frontend Development
 - **Svelte**: Proficient in building reactive and efficient web applications using Svelte.
 - **React**: Experienced in creating interactive UIs with React and managing state with Redux.
