@@ -1,5 +1,5 @@
 
-### Hi there 👋,  Ericemdev
+### Hi there 👋, it's ericem
 #### Design and Development
 ![Design and Development](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
