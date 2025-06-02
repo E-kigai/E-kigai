@@ -1,2 +1,5 @@
+# Hi there 👋 I'm Eric
 
-You can copy and paste this into your `README.md` file directly. Let me know if you want to add links to your projects, contact details, or anything else!
+🔭 I’m currently working on API and UI projects
+🌱 I’m currently learning C
+⚡ Fun fact: Hitting the 8-ball in early might end the game — not because you're skilled, but because you skillfully lost. 😅
