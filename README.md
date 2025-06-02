@@ -1,1 +1,1 @@
-![Eric's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=E-kigai-old&theme=dracula)
+![Eric's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=E-kigai&theme=dracula)
