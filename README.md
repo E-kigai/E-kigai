@@ -6,4 +6,5 @@ Hi there 👋 I'm Eric
 not because you're skilled, but because you skillfully lost. 🎱
 
 
-![Eric's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=E-kigai&theme=minimal)
+![Eric's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=E-kigai&theme=tokyo-night)
+
