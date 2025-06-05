@@ -1,4 +1,3 @@
-Hi there 👋 I'm Eric
 
 🔭 I’m currently working on API and UI projects  
 🌱 I’m currently learning C  
