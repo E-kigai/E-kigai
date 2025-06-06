@@ -1,5 +1,5 @@
 
-🔭 I’m currently working on API and UI projects  
+🔭 I’m currently working on Coinbase API and Admin Dashboard  
 🌱 I’m currently learning C  
 ⚡ Fun fact: Hitting the 8-ball in early might end the game  
 not because you're skilled, but because you skillfully lost. 🎱
